@@ -112,7 +112,7 @@
         .then(data => {
           const food = data.meals[0]; // Get the first meal from the response
           currentFoodName = food.strMeal;
-          currentFoodDescription = food.strInstructions.substring(0, 100) + '...';
+          currentFoodDescription = food.strInstructions.substring(0, 1500) + '...';
           renderFoodItem(currentFoodName, food.strMealThumb, currentFoodDescription);
         })
         .catch(error => {
