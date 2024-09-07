@@ -11,7 +11,7 @@
 This adorable web app was created especially for **Mahi** to explore different food choices and save her favorites! Every time Mahi finds a dish she loves, she can save it, and it will be stored in a special Google Sheet just for her. 🌟
 
 <div align="center">
-  <img src="https://media.giphy.com/media/J5yPBRpX9gLUIRILOF/giphy.gif" alt="Cute Food Gif" width="300">
+  <img src="[https://media.giphy.com/media/J5yPBRpX9gLUIRILOF/giphy.gif](https://media2.giphy.com/media/mBGcf7ReM5FHVCSyHT/200w.webp?cid=ecf05e47384ecb29c4g4106i0rzjtlvxpal319tdv46xggzl&ep=v1_gifs_related&rid=200w.webp&ct=g)" alt="Cute Food Gif" width="300">
 </div>
 
 ## 🌐 Live Demo
